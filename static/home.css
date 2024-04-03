@@ -1,0 +1,43 @@
+body {
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20211115/pngtree-plain-abstract-blue-background-hd-with-wave-image_916069.png');
+    background-repeat: no-repeat;
+   background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 36px;
+    color: #333;
+    margin-top: 50px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    color: #666;
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 18px;
+    color: #fff;
+    background-color: #333;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+a:hover {
+    background-color: #555;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 20px 0;
+}
